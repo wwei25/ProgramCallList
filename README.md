@@ -1,6 +1,6 @@
 # Display function call list
 lua_rawget<br>
-&nbsp;;&nbsp;;|--index2addr<br>
+&nbsp;&nbsp;|--index2addr<br>
 &nbsp;&nbsp;|--luaH_get<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--luaH_getshortstr<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--luaH_getint<br>
